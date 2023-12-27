@@ -23,3 +23,7 @@ body {
 a {
   color: yellow;
 }
+
+video {
+  display: none;
+}
